@@ -3,3 +3,4 @@ hello mello
 =======
 hello tester
 >>>>>>> master
+coś tam coś tam
